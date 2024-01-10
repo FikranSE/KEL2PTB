@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KEL2PTB</string>
+    <string name="fab_description">Tambahkan item</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

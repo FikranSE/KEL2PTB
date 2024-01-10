@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "934391748547",
+    "firebase_url": "https://kel2ptbfix-default-rtdb.firebaseio.com",
+    "project_id": "kel2ptbfix",
+    "storage_bucket": "kel2ptbfix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934391748547:android:79f5edf6d447bd43198f76",
+        "android_client_info": {
+          "package_name": "com.example.forpraktikan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gPigFn1hM8cFDmQfKcXjAJe0JOk7BjE"
+        },
+        {
+          "current_key": "AIzaSyA3VgCLrdB6ToFcz79FtOWZUTx_ZIQu-Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934391748547:android:ce57f91c29ecee0c198f76",
+        "android_client_info": {
+          "package_name": "com.example.kel2ptb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gPigFn1hM8cFDmQfKcXjAJe0JOk7BjE"
+        },
+        {
+          "current_key": "AIzaSyA3VgCLrdB6ToFcz79FtOWZUTx_ZIQu-Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
